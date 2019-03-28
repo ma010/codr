@@ -1,2 +1,2 @@
 # codr
-![Binder](http://mybinder.org/badge_logo.svg)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ma010/codr/master)
