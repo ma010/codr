@@ -1,2 +1,2 @@
 # codr
-Fill in the fields to see the markdown badge snippet.
+[![Binder](http://mybinder.org/badge_logo.svg)]
